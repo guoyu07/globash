@@ -1,0 +1,2 @@
+# globash
+globash rc file
